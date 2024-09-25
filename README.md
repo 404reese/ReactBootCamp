@@ -16,8 +16,8 @@ This repository contains a collection of lessons, exercises, and resources to he
 
 ## Lessons and Resources
 
-* [HTML Lessons](HTML/README.md)
-* [CSS Lessons](CSS/README.md)
+* [HTML Lessons](HTML)
+* [CSS Lessons](CSS)
 
 ## Getting Started
 
