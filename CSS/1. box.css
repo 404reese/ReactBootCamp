@@ -1,0 +1,18 @@
+/* put all one by one */
+.b1 {
+    width: 200px;
+    height: 150px;
+    background-color: pink;   
+    transform: rotate(40deg);
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.b2 {
+    width: 200px;
+    height: 150px;
+    background-color: #6769f3;   
+    transform: skewY(20deg);
+    margin-top: 50px;
+    margin-left: 50px;
+}
