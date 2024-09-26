@@ -1,0 +1,21 @@
+<!-- getElementByID -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>getElementByID</title>
+</head>
+<body>
+    <p id="para1">Good Morning</p>
+    <button id="changeTXT">Change Text</button>
+
+    <script>
+    document.getElementById('changeTXT').onclick=function(){
+        document.getElementById("para1").innerHTML="Good Night";
+    }
+         
+    </script>
+</body>
+</html>
