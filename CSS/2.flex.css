@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+
+.box1, .box2, .box3{
+ border: 1px solid black;
+ margin: 2px;
+ padding: 5px;
+}
+
+.box1 {
+    background: rgb(244, 97, 97);
+    flex : 1;
+    order: 1;
+}
+
+.box2 {
+    background: rgb(95, 95, 247);
+    flex : 1;
+    order: 2;
+}
+
+.box3 {
+    background: rgb(64, 147, 64);
+    flex : 1;
+    order: 3;
+}
