@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>array2</title>
+  </head>
+  <body>
+    open console
+    <script>
+      var tweets = ["GM!", "Coffee mornings"];
+      tweets.push("HAPPY DAY"); // appends at last
+      tweets.splice(1, 0, "HAPPY DAY"); // sytax: .splice(index where to start from, how many(used to delete nothing delete of 0), item1, item2,....,itemx)
+
+      //  detele one item starting at number 1
+      tweets.splice(1, 1, "GN!");
+
+      console.log(tweets);
+    </script>
+  </body>
+</html>
