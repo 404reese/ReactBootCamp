@@ -18,6 +18,8 @@ This repository contains a collection of lessons, exercises, and resources to he
 
 * [HTML Lessons](HTML)
 * [CSS Lessons](CSS)
+* [JS Lessons](JS)
+* [DOM Lessons](DOM)
 
 ## Getting Started
 
