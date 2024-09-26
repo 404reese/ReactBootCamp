@@ -19,6 +19,12 @@ Learn how to style text and fonts to improve the readability of your web pages. 
 ### CSS Layout and Box Model
 Understand how to create layouts and use the box model to control element dimensions. 📈
 
+### CSS Flexbox Property
+Learn how to use Flexbox to create responsive layouts that adapt to different screen sizes.
+
+### CSS Container Animation
+Discover how to add animations to your containers using CSS transitions and keyframes.
+
 ## Getting Started
 
 To get started, simply clone this repository and open the CSS files in your favorite code editor. Follow along with the lessons and exercises to improve your CSS skills.
