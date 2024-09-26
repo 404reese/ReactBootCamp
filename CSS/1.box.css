@@ -1,5 +1,4 @@
-/* put all one by one */
-.b1 {
+.box1 {
     width: 200px;
     height: 150px;
     background-color: pink;   
@@ -8,10 +7,11 @@
     margin-left: 50px;
 }
 
-.b2 {
+.box2 {
     width: 200px;
     height: 150px;
-    background-color: #6769f3;   
+    background-color: blue;
+    color: #fff;   
     transform: skewY(20deg);
     margin-top: 50px;
     margin-left: 50px;
