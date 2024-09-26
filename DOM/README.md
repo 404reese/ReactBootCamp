@@ -23,4 +23,4 @@ Explore the Window and Document objects, including the open method and other pro
 To get started, simply clone this repository and open the JavaScript files in your favorite code editor. Follow along with the lessons and exercises to improve your DOM skills.
 
 ## Contributing
-If you'd like to contribute to this repository, please fork it and submit a pull request.
+If you'd like to contribute to this repository, please fork it and submit a pull request
