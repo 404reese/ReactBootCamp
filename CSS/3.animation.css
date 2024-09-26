@@ -1,0 +1,27 @@
+.container{
+    background: #32ea2f;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+    animation: ani1 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes ani1 {
+    0%{
+        background-color: red;
+    }
+    25%{
+        background-color: blue;
+    }
+    50%{
+        background-color: green;
+    }
+    75%{
+        background-color: yellow;
+    }
+    100%{
+        background-color: red;
+    }
+}

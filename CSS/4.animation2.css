@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    margin-top: 100px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    animation: move 3s ease-in-out infinite;
+}
+
+
+
+@keyframes move {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(200px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.container2 {
+    width: 100px;
+    height: 100px;
+    background-color: #bf34db;
+    position: absolute;
+    animation: squarePath 4s linear infinite;
+}
+
+@keyframes squarePath {
+    0% {
+        transform: translateX(0) translateY(100px);
+    }
+    25% {
+        transform: translateX(200px) translateY(100px);
+    }
+    50% {
+        transform: translateX(200px) translateY(300px);
+    }
+    75% {
+        transform: translateX(0) translateY(300px);
+    }
+    100% {
+        transform: translateX(0) translateY(100px);
+    }
+}
