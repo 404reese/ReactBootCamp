@@ -1,3 +1,25 @@
-let taskList = []; //array for task list
+let taskList = []; // Array for task list
 
-document.getElementById('add-task-btn').addEventListener('click', addTask); // page funcationality
+// Event listener for the "Add Task" button
+document.getElementById('add-task-btn').addEventListener('click', addTask);
+
+function addTask() {
+
+
+    if (task !== '') {
+
+        renderTaskList();
+    }
+}
+
+function renderTaskList() {
+
+    taskList.forEach((task, index) => {
+
+        taskElement.addEventListener('click', () => {
+
+        });
+
+    taskListElement.appendChild(taskElement); 
+    });
+}
