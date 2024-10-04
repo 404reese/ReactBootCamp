@@ -17,6 +17,12 @@ This repository contains a series of lessons and exercises to help you learn the
 2. Open the React project files in your favorite code editor.
 3. Follow along with the lessons and exercises to improve your React skills.
 
+**Lessons and Resources**
+
+* [import of components](import)
+* [import-export of components](import-export)
+* [use of props](props)
+
 **Contributing**
 ---------------
 If you'd like to contribute to this repository, please:
