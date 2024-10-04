@@ -20,6 +20,8 @@ This repository contains a collection of lessons, exercises, and resources to he
 * [CSS Lessons](CSS)
 * [JS Lessons](JS)
 * [DOM Lessons](DOM)
+* [React Lessons](React)
+* [Projects](Project)
 
 ## Getting Started
 
